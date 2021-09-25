@@ -14,3 +14,8 @@ Activity 2:
 Screenshot of Hello Name page.
 
 ![image](https://user-images.githubusercontent.com/90438521/134784627-217eeeda-470c-4cb0-8b9c-5f99a14de12a.png)
+
+Activity 3: 
+Screenshot of Hello Name user page with Navbar and timestamp.
+
+![image](https://user-images.githubusercontent.com/90438521/134788084-57e6d8e2-02a9-48ae-8b0d-916f99d82643.png)
